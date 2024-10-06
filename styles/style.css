@@ -154,6 +154,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   gap: 25px;
   margin-bottom: 30px;
+  
 }
 
 .card-link {
@@ -163,6 +164,7 @@
 .lots__card-list-item {
   list-style: none;
   position: relative;
+  min-height: 563px;
 }
 
 .card {
