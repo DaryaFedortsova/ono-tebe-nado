@@ -164,7 +164,6 @@
 .lots__card-list-item {
   list-style: none;
   position: relative;
-  min-height: 563px;
 }
 
 .card {
