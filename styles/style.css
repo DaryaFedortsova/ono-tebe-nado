@@ -58,11 +58,10 @@
 
 .cover {
   background-image: url(../images/cover.jpg);
-  min-height: 757px;
   background-size: cover;
   position: relative;
   background-position: center;
-  padding: 165px 50px 50px;
+  padding: 165px 50px 51px;
 }
 
 .overlay {
