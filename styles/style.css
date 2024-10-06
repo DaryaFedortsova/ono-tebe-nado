@@ -23,7 +23,7 @@
   list-style: none;
 }
 
-.menu-link_active {
+.link_active-decoration {
   text-decoration: none;
 }
 
@@ -31,7 +31,7 @@
   list-style: circle;
 }
 
-.menu-link {
+.link-decoration {
   text-decoration: none;
   border-bottom: 1px solid;
 }
@@ -51,7 +51,10 @@
   line-height: 135%;
   font-size: 18px;
   letter-spacing: 0.01em;
-  max-width: 240.52px;
+}
+
+.header__address {
+  padding: 3px 25.48px 2px 187px;
 }
 
 .cover {
@@ -262,6 +265,10 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   padding: 0 50px 88px;
+}
+
+.footer__address {
+  padding-right: 119px;
 }
 
 .footer__menu-list {
