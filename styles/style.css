@@ -152,6 +152,7 @@
 .lots__card-list {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 1fr;
   gap: 25px;
   margin-bottom: 30px;
   
